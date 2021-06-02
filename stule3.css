@@ -261,7 +261,7 @@ a{
 .action-btn2 {
    position: absolute;
    top:250;
-   left:800;
+   left:650;
    display: inline-block;
    padding: 8px 20px;
    margin: 20px;
@@ -325,7 +325,7 @@ a{
 .action-btn4 {
    position: absolute;
    top:250;
-   left:650;
+   left:1100;
    display: inline-block;
    padding: 8px 20px;
    margin: 20px;
