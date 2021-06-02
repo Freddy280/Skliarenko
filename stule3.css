@@ -4,7 +4,7 @@ body{
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   margin: 0;
-  background-color: pink;
+  background: url("52.gif");
 }
 
 ul {
@@ -355,6 +355,13 @@ a{
    color: #FF5438;
 }
 header{
+	width:100%;
+	height:100px;
+	background-color:red;
+}
+footer{
+	position:relative;
+	top:800px;
 	width:100%;
 	height:100px;
 	background-color:red;
