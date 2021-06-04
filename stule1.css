@@ -154,6 +154,7 @@ a {text-decoration: none;}
 .pekodam{
 	position:relative;
 	top:25px;
+	left:500 	;
 	width: 600px;
 	height:200px;
 }
@@ -252,6 +253,11 @@ footer{
 	top:100px;
 	width: 1%;
 	vertical-align:middle;
+}
+.telegramim_button{
+	position:absolute;
+	top:0;
+	left:1100;
 }
 	
 	
