@@ -4,7 +4,7 @@ body{
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   margin: 0;
-  background: url("52.gif");
+  background-color: blue ;
 }
 
 ul {
@@ -366,6 +366,11 @@ footer{
 	height:100px;
 	background-color:red;
 }
+h1{
+	position:absolute;
+	top:300px;
+	left:50px;
+	
 
 	
 	
