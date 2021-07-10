@@ -5,7 +5,7 @@ body{
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   margin: 0;
-  background-image:url(1232.png);;
+  background-color:blue;
 }
 
 ul {
@@ -259,6 +259,11 @@ footer{
 	position:absolute;
 	top:0;
 	left:1300px;
+}
+.1232{
+	position:absolute;
+	top:100;
+	left:100px;
 }
 
 	
