@@ -154,7 +154,7 @@ a {text-decoration: none;}
 }
 .pekodam{
 	position:relative;
-	top:20px;
+	top:10px;
 	left:500;
 	width: 600px;
 	height:200px;
@@ -162,7 +162,7 @@ a {text-decoration: none;}
 
 .bottom{
 	position:relative;
-	top:20px;
+	top:10px;
 	width: 600px;
 	height:200px;
 }
