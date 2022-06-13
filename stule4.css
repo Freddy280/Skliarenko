@@ -4,7 +4,7 @@ body{
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   margin: 0;
-  background: url("56566666.gif") repeat 100px;
+  background: url("56566666.gif") no-repeat 100px;
 }
 
 ul {
