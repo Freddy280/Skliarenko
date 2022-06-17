@@ -42,7 +42,7 @@ body{
   text-decoration: none;
   display: block;  
   font-size: 13px;
-  color: rgba(0,0,0,.6);
+  color:orange;
   padding: 5px;
   position: relative;
   transition: .3s linear;
@@ -52,12 +52,12 @@ body{
   font-family: FontAwesome;
   position: absolute;
   right: 5px;
-  color: white;
+  color: red;
   transition: .2s linear;
 }
 .category-wrap a:hover {
-  background: #80C8A0;
-  color: white;
+  background: black;
+  color: green;
 }
 ul {
   list-style: none;
