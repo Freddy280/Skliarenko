@@ -9,14 +9,15 @@ body{
 }
 .category-wrap {
   padding: 15px;
-  background: white;
+  background: black;
   width: 200px;
   box-shadow: 2px 2px 8px rgba(0,0,0,.1);
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .category-wrap h3 {
   font-size: 16px;
-  color: rgba(0,0,0,.6);
+  color:green;
+  background:black;
   margin: 0 0 10px;
   padding: 0 5px;
   position: relative;
@@ -35,14 +36,14 @@ body{
   list-style: none;
   margin: 0;
   padding: 0; 
-  border-top: 1px solid rgba(0,0,0,.3);
+  border-top: 1px solid green;
 }
 .category-wrap li {margin: 12px 0 0 0px;}
 .category-wrap a {
   text-decoration: none;
   display: block;  
   font-size: 13px;
-  color:orange;
+  color:yellow;
   padding: 5px;
   position: relative;
   transition: .3s linear;
@@ -56,8 +57,8 @@ body{
   transition: .2s linear;
 }
 .category-wrap a:hover {
-  background: black;
-  color: green;
+  background: green;
+  color: red;
 }
 ul {
   list-style: none;
@@ -312,7 +313,8 @@ footer{
 	position:absolute;
 	top:300;
 	left:10px;
-	color:white;
+	color:yellow;
+	background:black;
 }
 .528{
 	position:absolute;
@@ -371,8 +373,8 @@ footer{
    font-size: 14px;
    text-transform: uppercase;
    font-weight: bold;
-   color: #112D52;
-   background: #FF5438;
+   color: yellow;
+   background: black;
    border: 2px solid #112D52;
    transition: .4s linear;
 }
@@ -388,8 +390,8 @@ footer{
    z-index: -1;
 }
 .action-btn1:hover {
-   background: #112D52;
-   color: #FF5438;
+   background: yellow;
+   color:red;
 }
 .action-btn2 {
    position: absolute;
@@ -403,8 +405,8 @@ footer{
    font-size: 14px;
    text-transform: uppercase;
    font-weight: bold;
-   color: #112D52;
-   background: #FF5438;
+   color: yellow;
+   background: black;
    border: 2px solid #112D52;
    transition: .4s linear;
 }
@@ -420,8 +422,8 @@ footer{
    z-index: -1;
 }
 .action-btn2:hover {
-   background: #112D52;
-   color: #FF5438;
+   background: yellow;
+   color: red;
 }
 .action-btn3 {
    position: absolute;
@@ -435,8 +437,8 @@ footer{
    font-size: 14px;
    text-transform: uppercase;
    font-weight: bold;
-   color: #112D52;
-   background: #FF5438;
+   color: yellow;
+   background:black;
    border: 2px solid #112D52;
    transition: .4s linear;
 }
@@ -452,8 +454,8 @@ footer{
    z-index: -1;
 }
 .action-btn3:hover {
-   background: #112D52;
-   color: #FF5438;
+   background: yellow;
+   color: red;
 }
 .action-btn4 {
    position: absolute;
@@ -467,8 +469,8 @@ footer{
    font-size: 14px;
    text-transform: uppercase;
    font-weight: bold;
-   color: #112D52;
-   background: #FF5438;
+   color: yellow;
+   background: black;
    border: 2px solid #112D52;
    transition: .4s linear;
 }
@@ -484,8 +486,8 @@ footer{
    z-index: -1;
 }
 .action-btn4:hover {
-   background: #112D52;
-   color: #FF5438;
+   background: yellow;
+   color: red;
 }
 .action-btn5 {
    position: absolute;
@@ -499,8 +501,8 @@ footer{
    font-size: 14px;
    text-transform: uppercase;
    font-weight: bold;
-   color: #112D52;
-   background: #FF5438;
+   color: yellow;
+   background: black;
    border: 2px solid #112D52;
    transition: .4s linear;
 }
@@ -516,8 +518,8 @@ footer{
    z-index: -1;
 }
 .action-btn5:hover {
-   background: #112D52;
-   color: #FF5438;
+   background: yellow;
+   color: red;
 }
 .action-btn6 {
    position: absolute;
@@ -531,8 +533,8 @@ footer{
    font-size: 14px;
    text-transform: uppercase;
    font-weight: bold;
-   color: #112D52;
-   background: #FF5438;
+   color: yellow;
+   background: black;
    border: 2px solid #112D52;
    transition: .4s linear;
 }
@@ -548,8 +550,8 @@ footer{
    z-index: -1;
 }
 .action-btn6:hover {
-   background: #112D52;
-   color: #FF5438;
+   background: yellow;
+   color: red;
 }
 .action-btn7 {
    position: absolute;
@@ -563,8 +565,8 @@ footer{
    font-size: 14px;
    text-transform: uppercase;
    font-weight: bold;
-   color: #112D52;
-   background: #FF5438;
+   color: yellow;
+   background: black;
    border: 2px solid #112D52;
    transition: .4s linear;
 }
@@ -580,8 +582,8 @@ footer{
    z-index: -1;
 }
 .action-btn7:hover {
-   background: #112D52;
-   color: #FF5438;
+   background: yellow;
+   color: red;
 .f8989{
 	left: 900;
     top: 200;
