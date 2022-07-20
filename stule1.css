@@ -600,7 +600,7 @@ footer{
 .action-btn99 {
    position: absolute;
    top:250;
-   left:500;
+   left:550;
    display: inline-block;
    padding: 8px 20px;
    margin: 20px;
@@ -609,7 +609,7 @@ footer{
    font-size: 14px;
    text-transform: uppercase;
    font-weight: bold;
-   color: ;
+   color: blue;
    background: black;
    border: 2px solid #112D52;
    transition: .4s linear;
