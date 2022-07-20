@@ -311,7 +311,7 @@ footer{
 }
 .f789{
 	position:absolute;
-	top:300;
+	top:350;
 	left:0px;
 	color:yellow;
 	background:black;
@@ -588,4 +588,53 @@ footer{
 	left: 900;
     top: 200;
 	
+}
+
+
+
+
+
+
+
+.action-btn99 {
+   position: absolute;
+   top:250;
+   left:500;
+   display: inline-block;
+   padding: 8px 20px;
+   margin: 20px;
+   text-decoration: none;
+   font-family: 'Comfortaa', cursive;
+   font-size: 14px;
+   text-transform: uppercase;
+   font-weight: bold;
+   color: ;
+   background: black;
+   border: 2px solid #112D52;
+   transition: .4s linear;
+}
+.action-btn99:after {
+   content: "";
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   height: 130%;
+   width: 91%;
+   border: 2px solid #112D52;
+   transform: translate(-50%, -50%);
+   z-index: -1;
+}
+.action-btт99:hover {
+   background: yellow;
+   color: red;
+
+
+
+
+.f7899{
+	position:absolute;
+	top:250;
+	left:200px;
+	color:yellow;
+	background:black;
 }
