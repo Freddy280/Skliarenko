@@ -472,7 +472,7 @@ h1{
 
 
 
-.action-btn99 {
+.action-btn999 {
    position: absolute;
    top:250;
    left:550;
@@ -489,7 +489,7 @@ h1{
    border: 2px solid #112D52;
    transition: .4s linear;
 }
-.action-btn99:after {
+.action-btn999:after {
    content: "";
    position: absolute;
    left: 50%;
@@ -500,7 +500,7 @@ h1{
    transform: translate(-50%, -50%);
    z-index: -1;
 }
-.action-btт99:hover {
+.action-btт999:hover {
    background: yellow;
    color: red;
 }
